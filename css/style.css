@@ -1,0 +1,94 @@
+.div1 {
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 60px 4px 90px;
+    width: 875px;
+}
+
+.div1b{ padding:15px;
+    justify-content: space-between;
+}    
+   
+.div2{background-color: orange;
+     justify-content: space-between;
+     display: flex;
+     padding: 15px;
+     width: 995px;
+}
+
+nav a{color:white;
+}
+
+h1{ font-size:50px;
+    flex-direction: column;
+    text-align: center;
+    background-color: darkgrey;
+    width: 1024px;
+    top: 1000px;
+}
+
+.div3{ z-index: -1;
+       width: 100%;
+}
+h2 {background-color: white;
+    justify-content: center;
+} 
+.div4{align-items:center;
+      display: flex;
+      top: -300px;
+      left: 50px;
+      position: relative;
+      flex-direction: column;
+      
+}
+p1{color:white;
+}
+
+#p2{color#666666;
+    background-color:darkgray;
+    text-align: center;
+    width: 1024px;
+    margin: right 0px;
+}
+
+.div5{flex-direction: column;
+      display:flex;
+      width: 995px;
+    
+     
+}
+
+button{background-color:orange;
+}
+  
+.div6{ flex-direction: row;
+      display: flex;
+      justify-content:space-around;
+      align-items: stretch;
+      width: 1024px;
+}
+
+footer{ background-color: #3C2313;
+    width: 1024px;
+    
+}
+
+h3{ height: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+
+h6{ background-color: orange;
+    color:white;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    width: 1024px;
+    
+}
+
